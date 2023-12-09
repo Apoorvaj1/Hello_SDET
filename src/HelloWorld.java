@@ -6,7 +6,7 @@ public class HelloWorld {
     public static void main(String[] args){
         System.out.println("Enter any number");
         Scanner sc = new Scanner(System.in);
-        char convert4 =(char)sc.nextInt();
-        System.out.println(convert4);
+        char convert5 =(char)sc.nextInt();
+        System.out.println(convert5);
     }
 }
