@@ -7,5 +7,18 @@ public class Program_10122023 {
 
         String name = "Apoorv";
         System.out.printf("My name is %s", name);
+        System.out.println();
+
+        short b = 127;
+        int c =b;
+        System.out.println(c);
+
+        int s = 12;
+         float h = s;
+        System.out.println(h);
+
+        final int add =4;
+        add = 7;
+        System.out.println(add);
     }
 }

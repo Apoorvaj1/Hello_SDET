@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1409e84a-55d3-4ddf-94b7-7bbc8de00862" name="Changes" comment="First commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello_SDET/src/Program_10122023.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Program_10122023.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program_10122023.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
